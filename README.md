@@ -2,9 +2,9 @@
 ### Olá, Seja Muito Bem Vindo(a) ao Meu Portifólio
 <br>
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pedrrocabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pedrrocabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
   <a href = "mailto:pedrogomes3108@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   </p>
 
@@ -50,8 +50,8 @@
 <br/>
  <table align="center">
   <td>Pojeto</td><td>Descrição</td><td>Linguagem</td><td>Links</td>
-  <tr><td>DataFake</td><td>Biblioteca gerador de dados para teste</td><td><img height="15"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
- <tr><td>Analise de Dados</td><td>Analise de Dados do Kaggle</td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/pedrrocabral/pedrrocabral.github.io/blob/653747db0022ea962dc96f4329ff0ef13945bfe1/img/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
+  <tr><td>DataFake</td><td>Biblioteca Geradora de Dados Falsos Para Teste</td><td><img height="15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
+ <tr><td>Analise de Dados</td><td>Análise de Dados do do Site Kaggle</td><td><img height="15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img alt="Pedro-jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="15"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
  </table>
  
 
