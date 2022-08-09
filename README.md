@@ -1,5 +1,3 @@
-# Pedro Cabral
-
 You can use the [editor on GitHub](https://github.com/pedrrocabral/pedrrocabral.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -88,7 +86,7 @@ __________________________________________________________________________
 ## 📂&nbsp;Meus Projetos:
 <br/>
  <table align="center">
-  <tr><td>**Pojeto**</td><td>**Descrição**</td><td>**Linguagem**</td><td>**Link**</td></tr>
+  <td> **Pojeto** </td><td>**Descrição**</td><td>**Linguagem**</td><td>**Link**</td>
   <tr><td>DataFake</a></td><td>Biblioteca gerador de dados para teste</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"></a></td><td>https://github.com/pedrrocabral/DataFake</a></td></tr/>
  <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Analise-de-dados</a></td></tr/>
 <tr><td>Ciência de Dados</a></td><td>Repositório de Armazenamento de Scripts de Data Science</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Ciencia-de-Dados</a></td></tr/>
