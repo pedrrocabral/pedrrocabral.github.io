@@ -1,4 +1,4 @@
-<img src="https://github.com/pedrrocabral/pedrrocabral/blob/a32e2908955a89178744776843928f4a572c967f/svg/headline_ptbr.svg">
+<img src="img/headline_ptbr.svg">
 <br>
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
