@@ -75,20 +75,26 @@ __________________________________________________________________________
 <img alt="Pedro-postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="Pedro-vscod" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+
 ## 📘&nbsp;Cursos e Certificações:
-<br/>\
-<img alt="Pedro-udemy" height= 17 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">&nbsp;&nbsp;**[Formação Cientista de Dados - 45h](https://www.udemy.com/certificate/UC-ea350b6e-9a30-4752-a17d-ddb887b13ad2/)**\
-<img alt="Pedro-udemy" height= 17 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">&nbsp;&nbsp;**Machine Learning Com Python - 42h (Em Andamento)**\
-<img alt="Pedro-udemy" height= 17 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">&nbsp;&nbsp;**[Python Para Análise de Dados - 12h](https://www.udemy.com/certificate/UC-262b4818-16e8-4395-8a60-aee7332c0fc0/)**\
-<img alt="Pedro-udemy" height= 17 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">&nbsp;&nbsp;**[Python Avançado - 112h](https://www.udemy.com/certificate/UC-c5917c79-de37-468e-9757-56db8ec91a2a/)**\
+<br/>
+ <table align="center">
+  <td> Plataforma </td><td> Curso </td><td> Duração </td><td> Link do Certificado</td>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</td><td>https://bit.ly/CertificadoFormacaoCientistaDeDados</td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Machine Learning Com Python (Em Andamento)</td><td>42h</td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td>https://bit.ly/CertificadoPythonParaAnaliseDeDados</td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td>https://bit.ly/CertificadoPythonAvançado</td></tr>
+</table>
 <br>
+
 
 ## 📂&nbsp;Meus Projetos:
 <br/>
  <table align="center">
-  <td> **Pojeto** </td><td>**Descrição**</td><td>**Linguagem**</td><td>**Link**</td>
+  <td> ***Pojeto*** </td><td>**Descrição**</td><td>**Linguagem**</td><td>**Link**</td>
   <tr><td>DataFake</a></td><td>Biblioteca gerador de dados para teste</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"></a></td><td>https://github.com/pedrrocabral/DataFake</a></td></tr>
  <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Analise-de-dados</a></td></tr>
 <tr><td>Ciência de Dados</a></td><td>Repositório de Armazenamento de Scripts de Data Science</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Ciencia-de-Dados</a></td></tr>
  </table>
+ 
 
