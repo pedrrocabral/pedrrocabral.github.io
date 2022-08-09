@@ -38,10 +38,10 @@
 <br/>
  <table align="center">
   <td> Plataforma </td><td> Curso </td><td> Duração </td><td> Link do Certificado</td>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</td><td><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados"> https://bit.ly/CertificadoFormacaoCientistaDeDados</a></td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</td><td><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados">🔗</a></td></tr>
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Machine Learning Com Python (Em Andamento)</td><td>42h</td></tr>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">https://bit.ly/CertificadoPythonParaAnaliseDeDados</a></td></tr>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td><a href="https://bit.ly/CertificadoPythonAvançado">https://bit.ly/CertificadoPythonAvançado</a></td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">🔗</a></td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td><a href="https://bit.ly/CertificadoPythonAvançado">🔗</a></td></tr>
 </table>
 <br>
 
@@ -50,8 +50,8 @@
 <br/>
  <table align="center">
   <td>Pojeto</td><td>Descrição</td><td>Linguagem</td><td>Link</td>
-  <tr><td>DataFake</td><td>Biblioteca gerador de dados para teste</td><td><img height="15"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">https://github.com/pedrrocabral/DataFake</a></td></tr>
- <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">https://github.com/pedrrocabral/Analise-de-dados</a></td></tr>
+  <tr><td>DataFake</td><td>Biblioteca gerador de dados para teste</td><td><img height="15"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">🔗</a></td></tr>
+ <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">🔗</a></td></tr>
  </table>
  
 
