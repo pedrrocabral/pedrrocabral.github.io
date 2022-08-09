@@ -50,7 +50,7 @@
 <br/>
  <table align="center">
   <td>Pojeto</td><td>Descrição</td><td>Linguagem</td><td>Link</td>
-  <tr><td>DataFake</td><td>Biblioteca gerador de dados para teste</td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"></td><td><a>https://github.com/pedrrocabral/DataFake</a></td></tr>
+  <tr><td>DataFake</td><td>Biblioteca gerador de dados para teste</td><td><img alt="Pedro-Python2" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></td><td><a>https://github.com/pedrrocabral/DataFake</a></td></tr>
  <tr><td>Analise de Dados</a></td><td>Analise de Dados do Kaggle</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Analise-de-dados</a></td></tr>
 <tr><td>Ciência de Dados</a></td><td>Repositório de Armazenamento de Scripts de Data Science</a></td><td><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="25"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="25"></a></td><td>https://github.com/pedrrocabral/Ciencia-de-Dados</a></td></tr>
  </table>
