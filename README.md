@@ -41,6 +41,8 @@
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">Link</a></td></tr>
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td><a href="https://bit.ly/CertificadoPythonAvançado">Link</a></td></tr>
   </thead>
+</table>
+
 <br>
 
 
