@@ -7,7 +7,7 @@
 </div>
 <br>
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/)\
+&nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/).\
 &nbsp;&nbsp;&nbsp;🔍 Em Busca de uma Oportunidade.\
 &nbsp;&nbsp;&nbsp;💘 Apaixonado pela área de dados e de IA.\
 &nbsp;&nbsp;&nbsp;📘 Estudando Ciência de Dados e Machine Learning.\
@@ -15,14 +15,14 @@
 
 <br>
 
-## 👨‍🎓&nbsp;Formação Acadêmica
+## 👨‍🎓&nbsp;Formação Acadêmica:
 [Universidade Católica de Pernambuco](https://portal.unicap.br/)\
 <b>GRADUANDO EM ENGENHARIA CIVIL</b>\
 <b>JAN/2017 - JUN/2023</b>
 
 <br>
 
-## 💻&nbsp;Minhas Habilidades
+## 💻&nbsp;Minhas Habilidades:
 \
 <img alt="Pedro-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Pedro-sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
