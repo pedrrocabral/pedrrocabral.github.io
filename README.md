@@ -58,7 +58,7 @@
 <br/>
 <br/>
 <br/>
-<b>Contato</b>
+<b><font size="5">Contato</font></b>
 </div>
  
 <p align="center">
