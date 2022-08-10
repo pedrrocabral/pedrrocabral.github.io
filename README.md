@@ -8,7 +8,7 @@
 ## 👾&nbsp;Sobre mim:
 <div align="center">
 
-## “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução."
+“Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução."
 </div>
 
 &nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/) (Universidade Católica de Pernambuco) \
@@ -49,9 +49,11 @@
 ## 📂&nbsp;Meus Projetos:
 <br/>
  <table align="center">
-  <td>Pojeto</td><td>Descrição</td><td>Linguagem</td><td>Links</td>
+   <thead>
+  <th>Pojeto</th><th>Descrição</th><th>Linguagem</th><th>Links</th>
   <tr><td>DataFake</td><td>Biblioteca Geradora de Dados Falsos Para Teste</td><td><img height="25" src="img/python-original-wordmark.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
  <tr><td>Analise de Dados</td><td>Análise de Dados do do Site Kaggle</td><td><img height="25" src="img/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="img/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
+   </thead>
  </table>
  
 
