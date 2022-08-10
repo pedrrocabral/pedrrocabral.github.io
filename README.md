@@ -34,11 +34,13 @@
 ## 📘&nbsp;Cursos e Certificações:
 <br/>
  <table align="center">
+  <thead>
   <th> Plataforma </th><th> Curso </td><td> Duração </th><th>Certificado</th>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</td><td><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados">Link</a></td></tr>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Machine Learning Com Python (Em Andamento)</td><td>42h</td></tr>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">Link</a></td></tr>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td><a href="https://bit.ly/CertificadoPythonAvançado">Link</a></td></tr>
+  <tr><th><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></th><th>Formação Cientista de Dados</th><th>45h</th><th><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados">Link</a></th></tr>
+  <tr><th><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></th><th>Machine Learning Com Python (Em Andamento)</th><th>42h</th></tr>
+  <tr><th><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></th><th>Python Para Análise de Dados</th><th>12h</th><th><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">Link</a></th></tr>
+  <tr><th><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></th><th>Python Avançado</th><th>112h</th><th><a href="https://bit.ly/CertificadoPythonAvançado">Link</a></th></tr>
+  </thead>
 </table>
 <br>
 
