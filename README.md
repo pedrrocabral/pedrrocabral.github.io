@@ -66,6 +66,7 @@
 <br/>
  
 <p align="center">
+  <a href = "https://github.com/pedrrocabral"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
   <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/pedrrocabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
