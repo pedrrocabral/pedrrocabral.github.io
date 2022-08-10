@@ -1,17 +1,13 @@
-<p align="center">
-  <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/pedrrocabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
-  <a href = "mailto:pedrogomes3108@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  </p>
+
 
 ## 👾&nbsp;Sobre mim:
 <div align="center">
-
+<br/>
 “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução."
 </div>
+<br>
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/) (Universidade Católica de Pernambuco) \
+&nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/)\
 &nbsp;&nbsp;&nbsp;🔍 Em Busca de uma Oportunidade.\
 &nbsp;&nbsp;&nbsp;💘 Apaixonado pela área de dados e de IA.\
 &nbsp;&nbsp;&nbsp;📘 Estudando Ciência de Dados e Machine Learning.\
@@ -56,4 +52,19 @@
    </thead>
  </table>
  
+ <div align="center">
+<br/>
+<br/>
+<br/>
+<br/>
+<b>Contato</b>
+</div>
+<br>
+ 
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pedrrocabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+  <a href = "mailto:pedrogomes3108@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  </p>
 
