@@ -1,5 +1,3 @@
-<img src="img/headline_ptbr.svg">
-<br>
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://www.instagram.com/pedrrogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
@@ -10,7 +8,7 @@
 ## 👾&nbsp;Sobre mim:
 <div align="center">
 
-## “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução. “
+## “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução."
 </div>
 
 &nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/) (Universidade Católica de Pernambuco) \
