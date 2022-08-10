@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Pedro Cabral
 description: Oi! Tudo bem? Bem Vindo(a) ao Meu Portifólio!
+ignore_theme_config: True
