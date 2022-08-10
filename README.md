@@ -15,6 +15,13 @@
 
 <br>
 
+## 👨‍🎓&nbsp;Formação Acadêmica
+[Universidade Católica de Pernambuco](https://portal.unicap.br/)\
+<b>GRADUANDO EM ENGENHARIA CIVIL</b>\
+<b>JAN/2017 - JUN/2023</br>
+
+<br>
+
 ## 💻&nbsp;Minhas Habilidades
 \
 <img alt="Pedro-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
