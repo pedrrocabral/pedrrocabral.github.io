@@ -36,7 +36,7 @@
  <table align="center">
   <thead>
   <th> Plataforma </th><th> Curso </th><th> Duração </th><th>Certificado</th>
-  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</th><th><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados">Link</a></td></tr>
+  <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Formação Cientista de Dados</td><td>45h</td><td><a href="https://bit.ly/CertificadoFormacaoCientistaDeDados">Link</a></td></tr>
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Machine Learning Com Python (Em Andamento)</td><td>42h</td></tr>
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Para Análise de Dados</td><td>12h</td><td><a href="https://bit.ly/CertificadoPythonParaAnaliseDeDados">Link</a></td></tr>
   <tr><td><img alt="Pedro-udemy" height= 22 src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></td><td>Python Avançado</td><td>112h</td><td><a href="https://bit.ly/CertificadoPythonAvançado">Link</a></td></tr>
