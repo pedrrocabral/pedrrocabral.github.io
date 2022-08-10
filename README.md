@@ -13,6 +13,8 @@
 &nbsp;&nbsp;&nbsp;📘 Estudando Ciência de Dados e Machine Learning.\
 &nbsp;&nbsp;&nbsp;🌵 Morando em Recife-PE, Brasil.
 
+<br>
+
 ## 💻&nbsp;Minhas Habilidades
 \
 <img alt="Pedro-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -26,9 +28,9 @@
 <img alt="Pedro-postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="Pedro-vscod" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
+<br>
 
 ## 📘&nbsp;Cursos e Certificações:
-<br/>
  <table align="center">
   <thead>
   <th> Plataforma </th><th> Curso </th><th> Duração </th><th>Certificado</th>
@@ -43,7 +45,6 @@
 
 
 ## 📂&nbsp;Meus Projetos:
-<br/>
  <table align="center">
    <thead>
   <th>Pojeto</th><th>Descrição</th><th>Linguagem</th><th>Links</th>
@@ -59,7 +60,6 @@
 <br/>
 <b>Contato</b>
 </div>
-<br>
  
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5581998854988&text=Oii%20Pedro%2C%20peguei%20seu%20Whatsapp%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
