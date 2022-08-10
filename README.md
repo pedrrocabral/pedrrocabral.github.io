@@ -18,7 +18,7 @@
 ## 👨‍🎓&nbsp;Formação Acadêmica
 [Universidade Católica de Pernambuco](https://portal.unicap.br/)\
 <b>GRADUANDO EM ENGENHARIA CIVIL</b>\
-<b>JAN/2017 - JUN/2023</br>
+<b>JAN/2017 - JUN/2023</b>
 
 <br>
 
