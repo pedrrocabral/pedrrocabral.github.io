@@ -49,8 +49,8 @@
 <br/>
  <table align="center">
   <td>Pojeto</td><td>Descrição</td><td>Linguagem</td><td>Links</td>
-  <tr><td>DataFake</td><td>Biblioteca Geradora de Dados Falsos Para Teste</td><td><img height="15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
- <tr><td>Analise de Dados</td><td>Análise de Dados do do Site Kaggle</td><td><img height="15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;<img alt="Pedro-jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="15"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
+  <tr><td>DataFake</td><td>Biblioteca Geradora de Dados Falsos Para Teste</td><td><img height="25" src="img/python-original-wordmark.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
+ <tr><td>Analise de Dados</td><td>Análise de Dados do do Site Kaggle</td><td><img height="25" src="img/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="img/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
  </table>
  
 
