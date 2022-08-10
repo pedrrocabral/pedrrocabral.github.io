@@ -56,7 +56,7 @@
    <thead>
   <th>Pojeto</th><th>Descrição</th><th>Linguagem</th><th>Links</th>
   <tr><td>DataFake</td><td>Biblioteca Geradora de Dados Falsos Para Teste</td><td><img height="25" src="img/python-original-wordmark.svg"></td><td><a href="https://github.com/pedrrocabral/DataFake">Link</a></td></tr>
- <tr><td>Analise de Dados</td><td>Análise de Dados do do Site Kaggle</td><td><img height="25" src="img/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="img/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Analise-de-dados">Link</a></td></tr>
+ <tr><td>Machine Learning</td><td>Repositório de Projetos de Machine Learning</td><td><img height="25" src="img/python-original-wordmark.svg">&nbsp;<img alt="Pedro-jupyter" src="img/jupyter-original-wordmark.svg" height="25"></td><td><a href="https://github.com/pedrrocabral/Projetos-de-Machine-Learning">Link</a></td></tr>
    </thead>
  </table>
  
