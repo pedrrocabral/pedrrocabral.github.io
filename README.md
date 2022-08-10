@@ -10,7 +10,7 @@
 ## 👾&nbsp;Sobre mim:
 <div align="center">
 
-#### “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução. “
+## “Os dados geram informações, e informações geram conhecimento, e o conhecimento gera evolução. “
 </div>
 
 &nbsp;&nbsp;&nbsp;🧑‍💻 Atualmente terminando a graduação na [UNICAP](https://portal.unicap.br/) (Universidade Católica de Pernambuco) \
